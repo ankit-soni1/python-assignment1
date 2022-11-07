@@ -107,4 +107,25 @@ ans. a=int(input())
          print('I can vote')
      else:
          print('I can't vote')
+	 
+Q23. Write a code that displays the sum of all the even numbers from the given list.
+```
+numbers = [12, 75, 150, 180, 145, 525, 50]
+ans. numbers = [12, 75, 150, 180, 145, 525, 50]
+     sum=0
+     for i in numbers:
+         if i%2 == 0:
+             sum = sum + i
+     print(sum)
+     
+Q24. Write a code to take 3 numbers as an input from the user and display the greatest no as output.
+ans. a=int(input())
+     b=int(input())
+     c=int(input())
+     if a>b and a>c:
+         print('a is largest')
+     elif b>a and b>c:
+         print('b is largest')
+     else:
+         print('c is largest')
 
