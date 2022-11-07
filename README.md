@@ -100,3 +100,11 @@ Q21. What is use of 'if', 'elif' and 'else' keywords?
 ans. if: to execute any specific condition.
      elif: to execute the other condition of the program which not included in if statement.
      else: rest of the condition included in this block other then if and elif. 
+
+Q22. Write a code to take the age of person as an input and if age >= 18 display "I can vote". If age is < 18 display "I can't vote".
+ans. a=int(input())
+     if a>=18:
+         print('I can vote')
+     else:
+         print('I can't vote')
+
