@@ -78,4 +78,13 @@ ans. '/' is the division operator. '//' is the floor division operator.
 iNeuroniNeuroniNeuroniNeuron
 ans.str_a="iNeuron"
     str_b=str_a*4
-    print(str_b)      
+    print(str_b)  
+Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
+ans. a=int(input())
+     if a%2==0:
+         print('even')
+     else:
+         print('odd')
+Q18. What are boolean operator?
+ans. The logical operators and, or and not are also referred to as boolean operators. While and as well as or operator needs two operands, which may evaluate to true or false, not operator needs one operand evaluating to true or false.
+     Boolean and operator returns true if both operands return true.Boolean or operator returns true if any one operand is true,  The not operator returns true if its operand is a false expression and returns false if it is true.
