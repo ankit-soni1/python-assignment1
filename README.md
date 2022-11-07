@@ -91,6 +91,15 @@ Q18. What are boolean operator?
 ans. The logical operators and, or and not are also referred to as boolean operators. While and as well as or operator needs two operands, which may evaluate to true or false, not operator needs one operand evaluating to true or false.
      Boolean and operator returns true if both operands return true.Boolean or operator returns true if any one operand is true,  The not operator returns true if its operand is a false expression and returns false if it is true.
      
+Q19. What will the output of the following?
+1 or 0-  true
+
+0 and 0- true
+
+True and False and True- false
+
+1 or 0 or 0- true
+     
  Q20. What are conditional statements in Python?
 ans. Python also has some predefined conditional statements. A conditional statement as the name suggests itself, is used to handle conditions in your program. These statements guide the program while making decisions based on the conditions encountered by the program.
      Python has 3 key Conditional Statements:
