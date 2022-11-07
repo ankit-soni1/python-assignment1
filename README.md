@@ -72,4 +72,10 @@ ans. '/' is the division operator. '//' is the floor division operator.
      a = 19
      b = 4
      print(a // b)  #This prints output as 4
-     print(a / b)  #This prints output as 4.75         
+     print(a / b)  #This prints output as 4.75        
+ Q16. Write a code that gives following as an output.
+```
+iNeuroniNeuroniNeuroniNeuron
+ans.str_a="iNeuron"
+    str_b=str_a*4
+    print(str_b)      
