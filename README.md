@@ -62,4 +62,14 @@ ans. using print() statement.
              print("true")  # here output will be true.
 
 Q14. What are operators in Python?
-ans.          
+ans. Python Operators in general are used to perform operations on values and variables. These are standard symbols used for the purpose of logical and arithmetic operations. 
+     arithmetic operator(+,-,/,*), logical op(and,or), compaison op(a==b,a!=b,a>b,a<b,a>=b,a<=b), assignment op(a+=b,a-=b,a*=b,a/=b).
+
+Q15. What is difference between / and // operators?
+ans. '/' is the division operator. '//' is the floor division operator.
+
+'//' is used to obtain the smallest integer nearest to the quotient obtained by dividing two numbers.
+     a = 19
+     b = 4
+     print(a // b)  #This prints output as 4
+     print(a / b)  #This prints output as 4.75         
