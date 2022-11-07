@@ -112,7 +112,6 @@ ans. a=int(input())
          print('I can't vote')
 	 
 Q23. Write a code that displays the sum of all the even numbers from the given list.
-```
 numbers = [12, 75, 150, 180, 145, 525, 50]
 ans. numbers = [12, 75, 150, 180, 145, 525, 50]
      sum=0
